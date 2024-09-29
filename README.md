@@ -1,6 +1,6 @@
 # TugkanBlocks
 
-TugkanBlocks is a custom Fabric Minecraft mod that introduces a variety of new blocks, an in-game shop for block purchasing, and a custom UI for managing and purchasing these blocks.
+TugkanBlocks is a custom server-sided Fabric Minecraft mod that introduces a variety of new blocks, an in-game shop for block purchasing, and a custom UI for managing and purchasing these blocks.
 
 ## Features
 - **Custom Blocks**: Introduces a range of new blocks that can be used for building and decoration.
