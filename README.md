@@ -1,6 +1,6 @@
 # TugkanBlocks
 
-TugkanBlocks is a custom Minecraft mod that introduces a variety of new blocks, an in-game shop for block purchasing, and a custom UI for managing and purchasing these blocks.
+TugkanBlocks is a custom Fabric Minecraft mod that introduces a variety of new blocks, an in-game shop for block purchasing, and a custom UI for managing and purchasing these blocks.
 
 ## Features
 - **Custom Blocks**: Introduces a range of new blocks that can be used for building and decoration.
@@ -36,10 +36,11 @@ TugkanBlocks is a custom Minecraft mod that introduces a variety of new blocks, 
 1. Download the **TugkanBlocks** mod.
 2. Requires the assets of [TugkanDeMans-Blocks](https://mcmodels.net/products/12313/tugkandemans-blocks) (Paid)
 3. Place the mod in the `mods` folder of your Minecraft installation.
-4. Make sure you have LuckPerms, Gooeylibs and Impactor installed and configured.
+4. Make sure you have LuckPerms, Gooeylibs, Polymer and Impactor installed and configured.
 
 ## API Integrations
 - **LuckPerms**: Used for permissions management.
 - **Impactor**: Used for handling economy transactions.
 - **Gooeylibs**: Used for handling GUI design.
+- **Polymer**: Used for Server Sided block handling.
 
