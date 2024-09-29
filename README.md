@@ -30,7 +30,7 @@ TugkanBlocks is a custom server-sided Fabric Minecraft mod that introduces a var
 
 - **blocks.json**: Stores and allows the addition of more blocks to the collection.
 - **lang.json**: Stores language strings for in-game messages, including UI titles, success/failure messages, and block names.
-- **Price.json**: Stores pricing information for all custom blocks. Prices are configurable per block.
+- **price.json**: Stores pricing information for all custom blocks. Prices are configurable per block.
 
 ## Installation
 1. Download the **TugkanBlocks** mod.
