@@ -10,8 +10,9 @@ TugkanBlocks is a custom server-sided Fabric Minecraft mod that introduces a var
 
 ## Commands
 
-### `/tblocks`
+### `/tblocks {player}`
 - Opens the **Main Menu UI** for navigating block options.
+- {player} argument allows the opening of the menu for other players
 - **Permission**: `tugkanblocks.menu`
 
 ### `/tblocks reload`
